@@ -1,0 +1,5 @@
+*.env
+visionAuth.json
+
+node_modules/
+images/
